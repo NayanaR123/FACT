@@ -1,0 +1,52 @@
+<Environment>
+	<Variable>
+		<Name>ProjectName</Name>
+		<Value>Demo Project</Value>
+	</Variable>
+	<Variable>
+		<Name>ReportType</Name>
+		<Value>HTML</Value>
+	</Variable>
+	<Variable>
+		<Name>ProjectPath</Name>
+		<Value>D:\LogFiles\ATAF\ATAF\Functions_Automation\Qmetry Project\</Value>
+	</Variable>
+	<Variable>
+		<Name>Test_Suite</Name>
+		<Value>RLabs_Scenarios.xls</Value>
+	</Variable>
+	<Variable>
+		<Name>Application_Snippet</Name>
+		<Value>Snippet.xlsx</Value>
+	</Variable>
+	<Variable>
+		<Name>Test_DataFileName</Name>
+		<Value>RLabs_TestData.xls</Value>
+	</Variable>
+	<Variable>
+		<Name>ORM_Excel_FilePath</Name>
+		<Value>ObjectReference.xlsx</Value>
+	</Variable>
+	<Variable>
+		<Name>ORM_Excel_Sheet_Name</Name>
+		<Value>IB_ObjectSheet</Value>
+	</Variable>
+	<Variable>
+		<Name>Object_Repository_Type</Name>
+		<Value>OBJ_TSR_FILE</Value>
+	</Variable>
+	<Variable>
+		<Name>OR_TSR_FILES_Name</Name>
+		<Value>Repository1.tsr</Value>
+	</Variable>
+
+	<Variable>
+		<Name>ALM_Run</Name>
+		<Value>N</Value>
+	</Variable>
+	<Variable>
+		<Name>IS_ALM_RUNNING_ON_SAME_SYSTEM</Name>
+		<Value>NO</Value>
+	</Variable>
+	
+</Environment>
